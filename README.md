@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashika-Mithra
-- 👀 I’m interested in Computer-Networking-&-Security
-- 🌱 I’m currently learning Python-Bootcamp
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Anything & Everything
 
 <!---
 Ashika-Mithra/Ashika-Mithra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
