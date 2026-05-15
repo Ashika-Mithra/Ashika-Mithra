@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashika-Mithra
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Analytics + AI + Space Science
 - 🌱 I’m currently learning Anything & Everything
 
 <!---
