@@ -1,6 +1,6 @@
 # Hi there, I'm Ashika 👋
 
-## IT Infrastructure | Networking | System Administration | Cybersecurity
+## Networking | System Administration | Cybersecurity | Data Analytics
 
 Curious about how IT systems connect, communicate, and stay secure.  
 Focused on networking, system administration, and cybersecurity fundamentals, with an interest in building reliable and secure infrastructure.  
@@ -11,32 +11,24 @@ I enjoy continuous learning and exploring how enterprise systems are designed an
 
 ## 🧰 Technical Focus Areas
 
-- 🌐 Networking: TCP/IP, DNS, DHCP, VLANs, routing fundamentals  
-- 🖥️ System Administration: Linux, Windows basics, user management, system configuration  
-- 🛡️ Cybersecurity: security fundamentals, log analysis, vulnerability concepts  
-- 📊 SOC Concepts: incident detection, monitoring, basic SIEM understanding  
-- 🔧 Tools: Wireshark, Nmap, Linux CLI, VirtualBox  
+- 🌐 Networking: TCP/IP, DNS, DHCP, Routing, Switching
+- 🖥️ System Administration: Windows Server, Linux, Active Directory
+- 🛡️ Cybersecurity: SIEM, Log Analysis, Wazuh, Snort, Wireshark, Threat Detection   
+- 📊 Data Analytics: SQL, Python (Pandas, NumPy), Excel
+- 🖥️ Visualization: Power BI, Tableau, Dashboard Development
+- 🔧 Tools & Platforms: Azure Cloud, Databricks, Git, GitHub
 
 ---
 
 ## 💻 Projects
 
-- Enterprise Network Design (VLAN & subnetting simulation)  
-- Linux Server Configuration (users, permissions, SSH, firewall)  
-- Wireshark Traffic Analysis (packet inspection & protocol study)  
-- Vulnerability Scanning Lab (Nmap-based analysis)  
-- Active Directory Simulation (users, groups, access control)  
-- SIEM Log Analysis Lab (security event detection)  
-- SOC Incident Response Simulation (attack timeline analysis)  
-- Secure Network Design (firewall & segmentation concepts)  
-- User Lifecycle Management System (identity & access control)  
-- Hybrid Infrastructure Simulation (cloud + on-prem concepts)  
+- E
 
 ---
 
 ## 🧪 Hands-on Labs
 
-- TryHackMe: Pre-Security Path  
+- TryHackMe: Pre Security Path  
 - TryHackMe: SOC Level 1 Path  
 - Hack The Box: Beginner Machines  
 - Linux Administration Practice Labs  
@@ -48,8 +40,9 @@ I enjoy continuous learning and exploring how enterprise systems are designed an
 
 - Network Administrator  
 - System Administrator  
-- SOC Analyst  
-- IT Support / Infrastructure Engineer  
+- SOC Analyst
+- IT Support / Infrastructure Engineer
+- Data Analyst
 
 ---
 
