@@ -6,7 +6,6 @@ Curious about how IT systems connect, communicate, and stay secure.
 Focused on networking, system administration, and cybersecurity fundamentals, with an interest in building reliable and secure infrastructure.  
 I enjoy continuous learning and exploring how enterprise systems are designed and protected. I also love learning new languages.
 
-
 ---
 
 ## 🧰 Technical Focus Areas
