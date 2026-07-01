@@ -57,7 +57,7 @@ I enjoy continuous learning and exploring how enterprise systems are designed an
 
 ## 📫 Contact
 
-- Email: 27ashika@gmail.com
+- Email: ashikamithra5@gmail.com
 
 ---
 
